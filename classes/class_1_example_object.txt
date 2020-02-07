@@ -1,0 +1,15 @@
+Instance;
+Appetizer menu
+
+Attribute;
+restaurant_name: "Avanti"
+is_open: true
+plates: ["steak tartar", "deviled eggs", "crab"]
+total_meals: 6
+meals_on_table: 2
+
+Method;
+change_restaurant_name: restaurant_name: "Jax"
+close_menu: is_open: false
+add_plate: plates: ["steak tartar", "deviled eggs", "crab", "lobster bisque"]
+calculate_current_meals: meals_on_table / total meals: 2 / 6 = 0.33
