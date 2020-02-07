@@ -1,0 +1,12 @@
+var food = "so tasty";
+var is_new = true;
+var food = "not that great";
+var num1 = 4;
+var num2 = 2;
+var num3 = 8;
+var movies = ["1917", "Good and bad", "birds of prey"];
+const arr = ["1917", "Good and bad", "birds of prey"];
+var slicedArr = arr.slice("birds of prey")
+console.log(slicedArr);["birds of prey"]
+console.log(arr);["1917", "Good and bad", "birds of prey"];
+let movies = ["1917", "Good and bad", "birds of prey"];
