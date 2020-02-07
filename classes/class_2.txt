@@ -1,0 +1,14 @@
+class:
+glassware
+
+Attribute;
+color (string)
+design (string)
+is_breakable (boolean)
+current_volume (integer)
+
+Method:
+change_color: (modifies the color attribute)
+change_design: (modifies the design attribute)
+break_glass: (changes the is_breakable attribute to true)
+sip: (removes 4 from current_volume attribute)
