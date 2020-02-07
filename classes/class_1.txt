@@ -4,12 +4,12 @@ Menu
 Attributes:
 restaurant_name (string)
 is_open (boolean)
-appetizers (array)
-total_desserts (integer)
-current_desserts (integer)
+plates (array)
+total_meals (integer)
+current_meals (integer)
 
 Methods:
 change_restaurant_name: (modifies the restaurant_name attribute)
 close_menu: (changes the is_open attribute to be false)
-add_appetizer: (adds appetizer to the appetizer array attribute)
-calculate_current_desserts: (calculates the current_desserts / total_desserts attributes)
+add_plate: (adds a plate to the plates array attribute)
+calculate_current_meals: (calculates the current_meals / total_meals attributes)
