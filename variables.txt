@@ -1,5 +1,5 @@
 var food = "so tasty";
-var is_new = true;
+var isNew = true;
 food = "not that great";
 var num1 = 4;
 var num2 = 2;
