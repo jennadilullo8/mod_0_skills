@@ -1,5 +1,5 @@
 class:
-glassware
+Glassware
 
 Attribute;
 color (string)
