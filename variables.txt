@@ -1,12 +1,10 @@
 var food = "so tasty";
 var is_new = true;
-var food = "not that great";
+food = "not that great";
 var num1 = 4;
 var num2 = 2;
-var num3 = 8;
+var num3 = num1 * num2;
 var movies = ["1917", "Good and bad", "birds of prey"];
-const arr = ["1917", "Good and bad", "birds of prey"];
-var slicedArr = arr.slice("birds of prey");
-console.log(slicedArr);
-console.log(arr);
-let movies = ["1917", "Good and bad", "birds of prey"];
+var last = movies.pop();
+console.log(movies);
+console.log(movies.length);
