@@ -4,11 +4,11 @@ Wine glass
 Attribute;
 color: "red"
 design: "stemless"
-is_breakable: false
+is_broken: false
 current_volume: 16
 
 Method;
 change_color: color: "rose"
 change_design: design: "white wine"
-break_glass: is_breakable: true
+break_glass: is_broken: true
 sip: current_volume - 4: 12
