@@ -1,5 +1,5 @@
 Instance;
-wine glass
+Wine glass
 
 Attribute;
 color: "red"
